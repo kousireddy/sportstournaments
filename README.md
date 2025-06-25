@@ -15,7 +15,7 @@
 - [X] urls.py
 - [X] Authentication
 
-# API Sucess Responses
+# API Success Responses
  - 200 Ok
  - 201 Created
  - 202 Accepted
